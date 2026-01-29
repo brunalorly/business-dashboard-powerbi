@@ -54,7 +54,6 @@ Apoio à tomada de decisões estratégicas com base em dados
 ## 📊 Dashboard
 <img src="dashboard_powerbi.png" alt="Dashboard de Vendas - Power BI" width="700"/>
 
-![Sales Analysis Dashboard](dashboard_powerbi.png)
 
 📚 Aprendizados e Experiência
 
