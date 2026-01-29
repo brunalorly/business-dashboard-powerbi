@@ -53,7 +53,10 @@ Apoio à tomada de decisões estratégicas com base em dados
 
 📈 Dashboard
 
-(Imagem do dashboard pode ser adicionada aqui)
+📊 Dashboard
+
+![Dashboard de Vendas - Power BI](dashboard-powerbi.png)
+
 
 📚 Aprendizados e Experiência
 
