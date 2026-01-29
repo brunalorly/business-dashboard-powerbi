@@ -51,12 +51,9 @@ Visualização clara do volume de vendas por produto
 
 Apoio à tomada de decisões estratégicas com base em dados
 
-📈 Dashboard
+## 📊 Dashboard
 
-📊 Dashboard
-
-![Dashboard de Vendas - Power BI](dashboard-powerbi.png)
-
+![Sales Analysis Dashboard](dashboard_powerbi.png)
 
 📚 Aprendizados e Experiência
 
